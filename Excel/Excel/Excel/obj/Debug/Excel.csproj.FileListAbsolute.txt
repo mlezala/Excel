@@ -1,0 +1,7 @@
+C:\Algorytmy\Excel\Excel\Excel\bin\Debug\Excel.exe.config
+C:\Algorytmy\Excel\Excel\Excel\bin\Debug\Excel.exe
+C:\Algorytmy\Excel\Excel\Excel\bin\Debug\Excel.pdb
+C:\Algorytmy\Excel\Excel\Excel\obj\Debug\Excel.csproj.CoreCompileInputs.cache
+C:\Algorytmy\Excel\Excel\Excel\obj\Debug\Excel.exe
+C:\Algorytmy\Excel\Excel\Excel\obj\Debug\Excel.pdb
+C:\Algorytmy\Excel\Excel\Excel\obj\Debug\Excel.csprojAssemblyReference.cache
